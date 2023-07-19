@@ -6,5 +6,5 @@ Devcontainer features for Earthly
 
 View an example of how to use this feature here: https://github.com/earthly/codespaces-example
 
-Credits
+## Credits
 Full credit list at https://github.com/earthly/devcontainer-features/blob/master/CREDITS.md
